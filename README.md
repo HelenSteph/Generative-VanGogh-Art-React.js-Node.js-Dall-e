@@ -1,2 +1,2 @@
-# Generative-VanGogh-Art-React.js-Node.js-Dall-e
-Client and Server Apps for run generative Art inspired in Van Gogh Landscapes
+# Generative Van Gogh mini-app React.js and DALLE
+Client and Server Apps for running generative Art inspired by Van Gogh art Landscapes.
