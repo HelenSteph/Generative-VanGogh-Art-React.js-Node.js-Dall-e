@@ -22,13 +22,13 @@ npm start
 
 QUIZ Example
 
-![Quiz ](/imgs/Quiz.png
+![Quiz ](/imgs/Quiz.png)
 
 
 <h3>Generated Prompt</h3>
 
-![Prompt ](/imgs/Prompt.png
+![Prompt ](/imgs/Prompt.png)
 
 <h3>Result</h3>
 
-![Prompt ](/imgs/result.png
+![Prompt ](/imgs/result.png)
